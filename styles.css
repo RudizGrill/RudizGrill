@@ -16,26 +16,28 @@ width: 25rem;
 }
 
 
-.buttonClass {
-  font-size:15px;
-  font-family:Arial;
-  width:140px;
-  height:50px;
-  border-width:1px;
-  color:#fff;
-  border-color:#18ab29;
-  font-weight:bold;
-  border-top-left-radius:28px;
-  border-top-right-radius:28px;
-  border-bottom-left-radius:28px;
-  border-bottom-right-radius:28px;
-  background:linear-gradient(rgba(57, 139, 206, 1), rgba(41, 122, 170, 1));
+
+.Hehe {
+	background-color:#33bdef;
+	border-radius:14px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 32px #5b6178;
+}
+.Hehe:hover {
+	background-color:#019ad2;
+}
+.Hehe:active {
+	position:relative;
+	top:1px;
 }
 
-.buttonClass:hover {
-  background: linear-gradient(rgba(41, 122, 170, 1), rgba(57, 139, 206, 1));
-}
-              
 
 .hehe {
   width: 20rem;
